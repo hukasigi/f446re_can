@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "name": "STM32F446",
+            "compileCommands": "${workspaceFolder}/compile_commands.json",
+            "intelliSenseMode": "linux-gcc-arm"
+        },
+        {
+            "C_Cpp.default.compileCommands": "${workspaceFolder}/compile_commands.json",
+            "C_Cpp.intelliSenseEngine": "default"
+        }
+    ],
+    "version": 4
+}
